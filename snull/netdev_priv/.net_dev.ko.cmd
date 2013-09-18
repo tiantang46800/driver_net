@@ -1,0 +1,1 @@
+cmd_/home/liu/snull/netdev_priv/net_dev.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.5.0-40-generic/scripts/module-common.lds --build-id  -o /home/liu/snull/netdev_priv/net_dev.ko /home/liu/snull/netdev_priv/net_dev.o /home/liu/snull/netdev_priv/net_dev.mod.o

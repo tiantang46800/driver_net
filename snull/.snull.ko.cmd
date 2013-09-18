@@ -1,0 +1,1 @@
+cmd_/home/liu/snull/snull.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.5.0-40-generic/scripts/module-common.lds --build-id  -o /home/liu/snull/snull.ko /home/liu/snull/snull.o /home/liu/snull/snull.mod.o
